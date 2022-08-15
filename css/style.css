@@ -1,0 +1,41 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    background-color: green;
+}
+.footer{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #515151;
+  padding: .9rem 0 .5rem 0;
+  text-align: center;
+  color: #fff;
+}
+.wrapper{
+  width: 90%;
+  margin: auto;
+}
+.float-left{
+  float: left;
+}
+.float-right{
+  float: right;
+}
+.clear{
+  clear: both;
+}
+.center{
+  text-align: center;
+}
+.container{
+  width: 80%;
+  height: 50rem;
+}
